@@ -37,7 +37,7 @@
     </div>
 
     <div id="marquee" class="bg-info">
-        <marquee><strong>Welcome To Pradhan Mantri Aawas Yojna.This Website is built during Smart India Hackathon Software Edition. It is a Management Information System For Monitor Construction Work that comes under Pradhan Mantri Aawas Yojna.</strong></marquee>
+        <marquee><strong>This Website is built during Smart India Hackathon Software Edition 2020. It is a Management Information System For Monitoring Construction Work that comes under government schemes like Pradhan Mantri Aawas Yojna.</strong></marquee>
     </div>
 
 
@@ -49,10 +49,28 @@
                     <div class="content">
                         
                     
-                    <h2>Pradhan Mantri Awas Yojana (Urban)</h2>
+                    <h2>Construction Monitoring System</h2>
                     <p>
-                        Pradhan Mantri Awas Yojana (Urban) Mission launched on 25th June 2015 which intends to provide housing for all in urban areas by year 2022. The Mission provides Central Assistance to the implementing agencies through States/Union Territories (UTs) and Central Nodal Agencies (CNAs) for providing houses to all eligible families/ beneficiaries against the validated demand for houses for about 1.12 cr. As per PMAY(U) guidelines, the size of a house for Economically Weaker Section (EWS) could be upto 30 sq. mt. carpet area, however States/UTs have the flexibility to enhance the size of houses in consultation and approval of the Ministry.
-In continuation to this Government’s efforts towards empowerment of women from EWS and LIG unlike earlier schemes, PMAY (U) has made a mandatory provision for the female head of the family to be the owner or co-owner of the house under this Mission. Verticals of PMAY (Urban) A basket of options is adopted to ensure inclusion of a greater number of people depending on their income, finance and availability of land through following four options....
+                   <h4> Role of our project: </h4>
+                     There is no online platform to manage and overview the progress of construction
+                      in places like sikkim for government schemes like Garib awaas yojna, 
+                       so our project is a particular
+                      management information system for monitoring construction work with proper flow of 
+                       information including real time image and location of the place of construction. <br/>
+                    <h4> Benefits to the society:- </h4>
+                       The project if applied practically will reduce the hassle offline work 
+                       for approval of money for schemes like Garib Awas Yojna.
+                        Also, the beneficiary will be able to see the realtime 
+                        progress of the construction of their homes. 
+                       It is time saving and all the data will be securely stored in database.
+                    <h4> Main Entities: </h4>
+                     <ul>
+                     <li> Supervisor </li>
+                     <li> Contractor </li>
+                     <li> User (beneficiary) </li>
+                     </ul>
+                     
+
                     </p>
                     </div>
                 </div>
@@ -63,8 +81,7 @@ In continuation to this Government’s efforts towards empowerment of women from
     <!--Footer-->
     <footer id="footer">
         <p>
-            Copyright © Pradhan Mantri Aawas Yojna.Smart India Hackathon Software Edition 2020. All Rights
-            Reserved􀆉 and 􀆈Contact Us: +91 90000 00000
+            Copyright © Demo Project under Smart India Hackathon Software Edition 2020.
         </p>
     </footer>
 
