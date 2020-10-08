@@ -1,0 +1,2 @@
+rootProject.name='SIH2020'
+include ':app'
